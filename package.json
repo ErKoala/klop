@@ -16,7 +16,7 @@
     "utile": "*"
   },
 
-  "repository": "",
+  "repository": "git://github.com/stoke/klop.git",
   "author": "stoke",
   "license": "MIT",
   "readmeFilename": "README.md"
